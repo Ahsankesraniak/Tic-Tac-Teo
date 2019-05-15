@@ -1,0 +1,10 @@
+@media only screen and (max-width:991px)
+/* mobile */
+{
+    #main-media{
+        margin-left: -14em;
+    margin-top: 22em;
+    }
+} 
+
+
